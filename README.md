@@ -9,7 +9,7 @@ Website made with [1991](https://github.com/urlysses/1991) and Forth programming
 ```console
 $ sudo apt-get install gforth gforth-common gforth-lib # install gforth
 
-$ gforth main.fs -e "start" # start gforth
+$ gforth-0.7.3 main.fs -e "start" # start gforth
 
 $ xdg-open http://localhost:1991 # open browser
 ```
