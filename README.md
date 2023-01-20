@@ -27,5 +27,5 @@ TBD
 ```console
 $ docker run -i -t --rm -p 1991:1991 endeyshentlabs/1991-test:0-2-0
 
-$ xg-open http://localhost:1991
+$ xdg-open http://localhost:1991
 ```
