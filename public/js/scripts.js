@@ -1,4 +1,4 @@
 /*jslint browser: true*/
 (function () {
-    console.log("fff");
+    console.log("Hello, World!");
 }());
